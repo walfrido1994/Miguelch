@@ -25,7 +25,7 @@ Sistema avanzado de análisis táctico de fútbol basado en Computer Vision. El 
 
 ## 🔧 Configuración del Entorno en Windows
 
-El proyecto se encuentra centralizado en la unidad `E:/tacticalcore-video-ai`.
+El proyecto se encuentra centralizado en la unidad `/tacticalcore-video-ai`.
 
 ### 1. Inicialización del entorno virtual
 Desde la terminal en la carpeta raíz, ejecutar:
