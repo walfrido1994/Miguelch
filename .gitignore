@@ -1,0 +1,16 @@
+# Entorno virtual
+venv/
+.env
+
+# Datos y Pesos
+models/*.pt
+input_videos/
+output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/

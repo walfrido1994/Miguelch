@@ -1,0 +1,12 @@
+ultralytics
+supervision
+opencv-python
+numpy
+scikit-learn
+fastapi
+uvicorn
+python-multipart
+torch --index-url https://download.pytorch.org/whl/cu118
+torchvision --index-url https://download.pytorch.org/whl/cu118
+paddlepaddle-gpu
+paddleocr
